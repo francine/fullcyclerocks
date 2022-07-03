@@ -1,6 +1,6 @@
 # fullcyclerocks
 
-Repository
+Docker Hub
 
 https://hub.docker.com/repository/docker/francinecosta/fullcyclerocks
 
